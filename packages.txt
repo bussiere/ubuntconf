@@ -287,6 +287,7 @@ fonts-lao					install
 fonts-liberation				install
 fonts-linuxlibertine				install
 fonts-lklug-sinhala				install
+fonts-lyx					install
 fonts-nanum					install
 fonts-oflb-asana-math				install
 fonts-opensymbol				install
@@ -1173,6 +1174,8 @@ libkrosscore4					install
 libktexteditor4					install
 libkxml2-java					install
 libkxmlrpcclient4				install
+liblapack3					install
+liblapack3gf					install
 liblcms1:amd64					install
 liblcms1:i386					install
 liblcms2-2:amd64				install
@@ -1991,6 +1994,7 @@ python-configglue				install
 python-crypto					install
 python-cups					install
 python-cupshelpers				install
+python-dateutil					install
 python-dbus					install
 python-dbus-dev					install
 python-debian					install
@@ -2005,6 +2009,7 @@ python-fpconst					install
 python-gconf					install
 python-gi					install
 python-gi-cairo					install
+python-glade2					install
 python-gnome2					install
 python-gnomekeyring				install
 python-gnupginterface				install
@@ -2023,9 +2028,12 @@ python-lxml					install
 python-m2crypto					install
 python-mako					install
 python-markupsafe				install
+python-matplotlib				install
+python-matplotlib-data				install
 python-minimal					install
 python-nltk					install
 python-notify					install
+python-numpy					install
 python-oauth					install
 python-openssl					install
 python-pam					install
@@ -2039,12 +2047,14 @@ python-psycopg2					install
 python-pycurl					install
 python-pyinotify				install
 python-pyorbit					install
+python-pyparsing				install
 python-qt4					install
 python-qt4-dbus					install
 python-renderpm					install
 python-reportlab				install
 python-reportlab-accel				install
 python-scapy					install
+python-scipy					install
 python-serial					install
 python-setuptools				install
 python-simplejson				install
@@ -2060,6 +2070,7 @@ python-twisted-bin				install
 python-twisted-core				install
 python-twisted-names				install
 python-twisted-web				install
+python-tz					install
 python-ubuntu-sso-client			install
 python-ubuntuone-client				install
 python-ubuntuone-control-panel			install
