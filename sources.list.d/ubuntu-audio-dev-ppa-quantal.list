@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/ubuntu-audio-dev/ppa/ubuntu quantal main
-deb-src http://ppa.launchpad.net/ubuntu-audio-dev/ppa/ubuntu quantal main
+deb http://ppa.launchpad.net/ubuntu-audio-dev/ppa/ubuntu precise main
+deb-src http://ppa.launchpad.net/ubuntu-audio-dev/ppa/ubuntu precise main

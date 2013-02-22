@@ -2376,7 +2376,7 @@ ubuntu-sso-client-qt				install
 ubuntu-standard					install
 ubuntu-system-service				install
 ubuntu-wallpapers				install
-ubuntu-wallpapers-quantal			install
+ubuntu-wallpapers-precise			install
 ubuntu-zfs					install
 ubuntuone-client				install
 ubuntuone-client-gnome				install

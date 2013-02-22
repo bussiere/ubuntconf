@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/webupd8team/java/ubuntu quantal main
-deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu quantal main
+deb http://ppa.launchpad.net/webupd8team/java/ubuntu precise main
+deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu precise main
